@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CursorHomeWork-16/static/css/main.b7ae39e9.css",
+    "main.js": "/CursorHomeWork-16/static/js/main.34cd1751.js",
+    "static/js/787.f2e22480.chunk.js": "/CursorHomeWork-16/static/js/787.f2e22480.chunk.js",
+    "index.html": "/CursorHomeWork-16/index.html",
+    "main.b7ae39e9.css.map": "/CursorHomeWork-16/static/css/main.b7ae39e9.css.map",
+    "main.34cd1751.js.map": "/CursorHomeWork-16/static/js/main.34cd1751.js.map",
+    "787.f2e22480.chunk.js.map": "/CursorHomeWork-16/static/js/787.f2e22480.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b7ae39e9.css",
+    "static/js/main.34cd1751.js"
+  ]
+}
